@@ -18,6 +18,7 @@ Ocsigen is a comprehensive set of libraries to build Web and mobile apps in OCam
  - [Ocsigen Start](https://github.com/ocsigen/ocsigen-start) a library and code generator for building a ready to go Eliom application
  - [Ocsigen Toolkit](https://github.com/ocsigen/ocsigen-toolkit) a set of widgets for your mobile and Web apps, compatible with Eliom's client-server model
  - [TyXML](https://github.com/ocsigen/tyxml) generate statically typed-checked HTML (or SVG)
+ - [Ocsigen-i18n](https://github.com/besport/ocsigen-i18n) internationalisation library for OCaml
 
 More information on [oscigen.org](https://ocsigen.org).
 
