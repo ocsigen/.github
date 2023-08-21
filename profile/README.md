@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Welcome to the Ocsigen Organisation!
+## Ocsigen: Application development in OCaml 
 
 Ocsigen is a comprehensive set of libraries to build Web and mobile apps in OCaml. Some libraries include:
 
@@ -21,5 +21,7 @@ Ocsigen is a comprehensive set of libraries to build Web and mobile apps in OCam
  - [Ocsigen-i18n](https://github.com/besport/ocsigen-i18n) internationalisation library for OCaml
 
 More information on [oscigen.org](https://ocsigen.org).
+
+[Complete overview of application developement in OCaml](https://ocsigen.org/tuto/latest/manual/basics).
 
 We follow the OCaml community's code of conduct, see [our copy in this repository](https://github.com/ocsigen/.github/blob/main/CODE_OF_CONDUCT.md). This applies to all repositories under the Ocsigen organisation (even if they don't have a `CODE_OF_CONDUCT.md` in the source code yet).
