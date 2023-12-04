@@ -10,7 +10,7 @@
 -->
 ## Web and mobile development in OCaml 
 
-Ocsigen is a comprehensive set of libraries to build Web and mobile apps in OCaml. Some libraries include:
+This organization aims at building a comprehensive and coherent set of libraries to build Web and mobile apps in OCaml. Some libraries include:
 
  - [Lwt](https://github.com/ocsigen/lwt) the popular concurrency library for OCaml
  - [Js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) the OCaml to Javascript compiler
