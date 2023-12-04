@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Ocsigen: Application development in OCaml 
+## Web and mobile development in OCaml 
 
 Ocsigen is a comprehensive set of libraries to build Web and mobile apps in OCaml. Some libraries include:
 
