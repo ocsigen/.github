@@ -10,7 +10,7 @@
 -->
 ## Web and mobile development in OCaml 
 
-This organization aims to build a comprehensive and coherent set of libraries to build Web sites, Web apps and mobile apps in OCaml. Some libraries include:
+This organization aims to collaboratively build a comprehensive and coherent set of libraries for the OCaml language, to build Web sites, Web apps and mobile apps. Some libraries include:
 
  - [Lwt](https://github.com/ocsigen/lwt) the popular concurrency library for OCaml
  - [Js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) the OCaml to Javascript compiler
