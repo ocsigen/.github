@@ -15,6 +15,7 @@ This organization aims to collaboratively build a comprehensive and coherent set
  - [Lwt](https://github.com/ocsigen/lwt) the popular concurrency library for OCaml
  - [Js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) the OCaml to Javascript compiler
  - [Eliom](https://github.com/ocsigen/eliom), the full-stack Web and mobile app framework for OCaml
+ - [Ocsigen Server](https://github.com/ocsigen/ocsigenserver) a powerful and extensible Web server, with lots of extensions
  - [Ocsigen Start](https://github.com/ocsigen/ocsigen-start) a library and code generator for building a ready-to-go Eliom application
  - [Ocsigen Toolkit](https://github.com/ocsigen/ocsigen-toolkit) a set of widgets for your mobile and Web apps, compatible with Eliom's client-server model
  - [TyXML](https://github.com/ocsigen/tyxml) generates statically typed-checked HTML (or SVG)
