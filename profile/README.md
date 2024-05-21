@@ -20,7 +20,7 @@ This organization aims to collaboratively build a comprehensive and coherent set
  - [Ocsigen Toolkit](https://github.com/ocsigen/ocsigen-toolkit) a set of widgets for your mobile and Web apps, compatible with Eliom's client-server model
  - [TyXML](https://github.com/ocsigen/tyxml) generates statically typed-checked HTML (or SVG)
  - [Ocsigen-i18n](https://github.com/besport/ocsigen-i18n) internationalisation library for OCaml
- - [Ocsipersist](https://github.com/besport/ocsipersist) persistent storage for OCaml, based on DBM, sqlite or postgresql
+ - [Ocsipersist](https://github.com/ocsigen/ocsipersist) persistent storage for OCaml, based on DBM, sqlite or postgresql
 
 More information on [ocsigen.org](https://ocsigen.org).
 
